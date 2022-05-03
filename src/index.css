@@ -23,6 +23,15 @@ ul {
   padding: 0 20px;
 }
 
+a {
+  text-decoration: none;
+  color: #ff6a95;
+}
+
+a:hover {
+  color: #f982a4;
+}
+
 header {
   height: 70px;
   width: 100%;
