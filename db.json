@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "Hellow, from db.json"
+    },
+    {
+      "text": "updated item ",
+      "rating": 7,
+      "id": 3
+    },
+    {
+      "text": "It was an amazing experience",
+      "rating": 2,
+      "id": 4
+    }
+  ]
+}
